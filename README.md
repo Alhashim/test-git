@@ -1,2 +1,2 @@
-# testGit
-Just to play with git editeeeeeeeeeeeeeeeeeeeeed
+# test-git
+Practicing with git
